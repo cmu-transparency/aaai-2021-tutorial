@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cmu-transparency/aaai-2021-tutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# INFORMATION
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Time**: 12:00 pm – 3:00 pm Pacific Time (Vancouver), February 3, 2021
 
-### Markdown
+**Zoom Location**:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Slides**:
 
-```markdown
-Syntax highlighted code block
+**Speakers**: 
+- [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/)
+- [Matt Fredrikson](https://www.cs.cmu.edu/~mfredrik/)
+- [Shayak Sen](https://truera.com/people/shayak-sen/)
+- [Klas Leino](http://www.cs.cmu.edu/~kleino/)
 
-# Header 1
-## Header 2
-### Header 3
+# DESCRIPTION
+The goal of this tutorial is to provide a systematic view of the current knowledge relating **explainability** to several key outstanding concerns regarding the quality of ML models;in particular, **robustness**, **privacy**, and **fairness**. We will discuss the ways in which explainability can inform questions about these aspects of model quality, and how methods for improving them that are emerging from recent research of AI, Security & Privacy, and Fairness communities can in turn lead to better outcomes for explainability. We aim to make these findings accessible to a general AI audience, including not only researchers who want to further engage with this direction, but also practitioners who stand to benefit from the results, and policy-makers who want to deepen their technical understanding of these important issues.
+# SYLLABUS
+#### Part I: Introduction (10min)
+#### Part II: Foundations of XAI (60min with Q&A)
+- Background of XAI Methods
+- Evaluation Criteria for Model Explanation
+#### Break (10min)
+#### Part III: From Explanation to Model Quality (60min with Q&A)
+- Explanations and Privacy
+- Explanations and Fairness
+#### Break (20min)
+#### Part IV: From Model Quality to Explanations (30min with Q&A)
+- Explanations and Model Robustness
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# AUDIENCE
+The target audience of this tutorial is researchers, practitioners, and policy-makers who are interested in the role that our topic plays in applications of AI. We expect audience members to be familiar the supervised learning, and have a working knowledge of how optimization methods are used to train models. We do not expect familiarity with the problems from privacy, fairness, or robustness.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmu-transparency/aaai-2021-tutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
