@@ -20,11 +20,15 @@ The goal of this tutorial is to provide a systematic view of the current knowled
 #### Part II: Foundations of XAI (60min with Q&A)
 - Background of XAI Methods
 - Evaluation Criteria for Model Explanation
+
 #### Break (10min)
+
 #### Part III: From Explanation to Model Quality (60min with Q&A)
 - Explanations and Privacy
 - Explanations and Fairness
+
 #### Break (20min)
+
 #### Part IV: From Model Quality to Explanations (30min with Q&A)
 - Explanations and Model Robustness
 
