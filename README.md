@@ -39,4 +39,13 @@ The goal of this tutorial is to provide a systematic view of the current knowled
 # AUDIENCE
 The target audience of this tutorial is researchers, practitioners, and policy-makers who are interested in the role that our topic plays in applications of AI. We expect audience members to be familiar the supervised learning, and have a working knowledge of how optimization methods are used to train models. We do not expect familiarity with the problems from privacy, fairness, or robustness.
 
+# TruLens
+Library containing attribution and interpretation methods for deep nets. To quickly play around with the TruLens library, check out the following CoLab notebooks:
+
+- [Pytorch](https://colab.research.google.com/drive/1n77IGrPDO2XpeIVo_LQW0gY78enV-tY9?usp=sharing)
+- [Tensorflow 2](https://colab.research.google.com/drive/1f-ETsdlppODJGQCdMXG-jmGmfyWyW2VD?usp=sharing)
+
+More resources are available on our Github page: [TruLens](https://github.com/truera/trulens)
+
+
 
