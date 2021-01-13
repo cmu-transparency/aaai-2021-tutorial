@@ -1,7 +1,7 @@
 
 
 ![](./src/logo.png)
-# INFORMATION
+# AAAI-21 TUTORIAL
 
 **Time**: 12:00 pm – 3:00 pm Pacific Time (Vancouver), February 3, 2021
 
