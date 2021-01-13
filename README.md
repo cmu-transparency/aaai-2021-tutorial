@@ -30,7 +30,7 @@ The goal of this tutorial is to provide a systematic view of the current knowled
 - Explanations and Privacy
 - Explanations and Fairness
 
-#### Break (20min)
+#### Break (10min)
 
 #### Part IV: From Model Quality to Explanations (30min with Q&A)
 - Explanations and Model Robustness
