@@ -7,7 +7,10 @@
 
 **Zoom Location**: TBD
 
-**Slides**:
+**Online Resources**: 
+
+- [Slides](./doc/AAAI_slides_final.pdf)
+- Recordings: coming soon
 
 **Speakers**: 
 - [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/)
