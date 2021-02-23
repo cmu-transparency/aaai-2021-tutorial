@@ -10,7 +10,7 @@
 **Online Resources**: 
 
 - [Slides](./doc/AAAI_slides_final.pdf)
-- Recordings: coming soon
+- Recordings: [Youtube](https://youtu.be/6KFlcCRja0c)
 
 **Speakers**: 
 - [Anupam Datta](https://www.andrew.cmu.edu/user/danupam/)
